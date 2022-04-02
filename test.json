@@ -5,8 +5,8 @@
     "domain": "mitre-enterprise",
     "techniques": [
         {
-            "techniqueID": "T1001.001",
-            "comment": "used by Fancy Bear",
+            "techniqueID": "T1564.001",
+            "comment": "EDITED BY ME",
             "color": "#8ec843"
         },
         {
