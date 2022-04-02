@@ -6,7 +6,7 @@
     "techniques": [
         {
             "techniqueID": "T1564.001",
-            "external_id": "TEST_TEST",
+            "tactic": "reconnaissance",
             "comment": "EDITED BY ME",
             "color": "#8ec843"
         },
