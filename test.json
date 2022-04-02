@@ -1,12 +1,11 @@
 {
-    "name": "*Bear Test",
+    "name": "*Hello Test",
     "version": "3.0",
     "description": "All techniques used by an APT group with phrase 'bear' in the group aliases",
     "domain": "mitre-enterprise",
     "techniques": [
         {
             "techniqueID": "T1564.001",
-            "tactic": "reconnaissance",
             "comment": "EDITED BY ME",
             "color": "#8ec843"
         },
